@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Expandable listView</string>
+    <string-array name="abbreviations_list_header">
+        <item>ABE</item>
+        <item>ACL</item>
+        <item>BA</item>
+        <item>BSc</item>
+        <item>CAD</item>
+        <item>CP</item>
+        <item>DOB</item>
+        <item>EO</item>
+        <item>GTC</item>
+        <item>HT</item>
+    </string-array>
+
+    <string-array name="abbreviations_list_child">
+        <item>Adult Basic Education</item>
+        <item>Adult Community Learning</item>
+        <item>Bachelor of Arts</item>
+        <item>Bachelor of Science</item>
+        <item>Computer Aided Design</item>
+        <item>Child protection</item>
+        <item>Date of Birth</item>
+        <item>Education Otherwise</item>
+        <item>General Teaching Council</item>
+        <item>Headteacher</item>
+    </string-array>
+</resources>
